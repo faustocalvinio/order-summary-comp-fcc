@@ -19,7 +19,7 @@ body{
     border-radius: 1rem;
 }
 .container-texts{
-    padding: 1.5rem 1rem 2rem;
+    padding: 1.5rem 3rem 2rem;
 }
 .img-illustration{
     width: 100%;
@@ -27,7 +27,7 @@ body{
     border-top-right-radius: 1rem;
 }
 .title{
-    font-size: 1.5rem; 
+    font-size: 2rem; 
     text-align: center;
     font-weight: 900;
 }
@@ -41,7 +41,7 @@ body{
     display: flex;
     position: relative;
     gap: .7rem;
-    padding: 1rem;
+    margin: 2rem 0;
     border-radius: .5rem;    
 }
 .container-plan-text{
@@ -98,7 +98,8 @@ body{
 .cancel{
     background-color: transparent;
     font-weight: 700;
-    color: hsl(218, 10%, 42%);
+    color: hsla(218, 10%, 42%, 0.863);
+    font-weight: 800;
 }
 .cancel:hover{
     color: #000;
