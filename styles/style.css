@@ -113,4 +113,21 @@ body{
     body{
         background: hsl(225, 100%, 94%);
     }
+    .main-container{
+        width: 85%;
+        margin-top: 8vh;
+        height: fit-content;
+    }
+    .container-texts{
+        padding: 1rem;
+    }
+    .title{
+        font-size: 1.5rem;
+    }
+    .subtitle{
+        padding: 0rem .7rem;
+    }
+    .attribution{
+        top: 110%;
+    }
 }
