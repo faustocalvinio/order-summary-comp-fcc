@@ -13,14 +13,14 @@ body{
     background-color: rgb(190, 200, 255);
 }
 .main-container{
-    width: 21rem;
+    width: 23rem;
     height: fit-content;
     background-color: #fff;
     border-radius: 1rem;
     padding: 0rem;
 }
 .container-texts{
-    padding: 0rem 2rem 2rem;
+    padding: 0rem 1rem 2rem;
 }
 .img-illustration{
     width: 100%;
@@ -42,7 +42,8 @@ body{
     display: flex;
     position: relative;
     gap: .7rem;
-    padding: 1rem;    
+    padding: 1rem;
+    border-radius: .5rem;    
 }
 .container-plan-text{
     height: 3rem;
@@ -70,6 +71,11 @@ body{
     right: 1rem;
     top: 50%;
     transform: translateY(-50%);
+}
+.change:hover{
+    cursor: pointer;
+    color: rgb(77, 113, 126);
+    text-decoration: none;
 }
 .button{
     width: 100%;
