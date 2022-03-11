@@ -10,7 +10,7 @@ body{
     min-height: 100vh;
     background: url('../images/wave-final.svg') no-repeat;
     background-position-y: bottom;
-    background-color: rgb(190, 200, 255);
+    background-color: hsl(225, 100%, 94%);
 }
 .main-container{
     width: 28.5rem;
@@ -19,7 +19,7 @@ body{
     border-radius: 1rem;
 }
 .container-texts{
-    padding: 1.5rem 3rem 2rem;
+    padding: .5rem 3rem 2rem;
 }
 .img-illustration{
     width: 100%;
@@ -27,9 +27,9 @@ body{
     border-top-right-radius: 1rem;
 }
 .title{
-    font-size: 2rem; 
+    font-size: 1.7rem; 
     text-align: center;
-    font-weight: 900;
+    font-weight: 900;    
 }
 .subtitle{
     text-align: center;
