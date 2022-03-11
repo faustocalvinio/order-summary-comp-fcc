@@ -19,7 +19,7 @@ body{
     border-radius: 1rem;
 }
 .container-texts{
-    padding: 1.2rem 4rem 2rem;
+    padding: 1.2rem 3rem 2rem;
 }
 .img-illustration{
     width: 100%;
@@ -35,16 +35,17 @@ body{
     text-align: center;
     color: hsl(220, 15%, 55%);
     font-size: 1rem;
+    line-height: 1.5rem;
 }
 .container-plan{
     height:2.5rem;
-    background-color:  hsl(225, 100%, 98%);
+    background-color:  hsla(228, 100%, 98%, 0.678);
     display: flex;
     position: relative;
     gap: .7rem;
     margin: 2rem 0;
-    border-radius: .5rem;    
-    padding: 2rem 0;
+    border-radius: 1rem;    
+    padding: 2rem 2rem;
 }
 .container-plan-text{
     height: 3rem;
@@ -65,11 +66,12 @@ body{
     color: hsl(220, 15%, 55%);
     font-size: 1rem;
     margin: 0rem;
+    margin-top: .5rem;
 }
 .change{
     margin: 0rem;
     position: absolute;
-    right: 1rem;
+    right: 2rem;
     top: 50%;
     transform: translateY(-50%);
 }
@@ -102,6 +104,7 @@ body{
     font-weight: 700;
     color: hsla(218, 10%, 42%, 0.863);
     font-weight: 800;
+    margin-top: .7rem;
 }
 .cancel:hover{
     color: #000;
