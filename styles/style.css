@@ -74,7 +74,7 @@ body{
 }
 .change:hover{
     cursor: pointer;
-    color: rgb(77, 113, 126);
+    color: hsl(224, 23%, 55%);
     text-decoration: none;
 }
 .button{
