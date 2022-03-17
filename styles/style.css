@@ -16,7 +16,7 @@ body{
     width: 28.5rem;
     height: 43.5rem;
     background-color: #fff;
-    border-radius: 1rem;
+    border-radius: 2rem;
 }
 .container-texts{
     padding: 1.2rem 3rem 2rem;
@@ -35,8 +35,8 @@ body{
     text-align: center;
     color: hsl(220, 15%, 55%);
     font-size: 1rem;
-    line-height: 1.5rem;
-    font-weight: 600;
+    line-height: 1.8rem;
+    font-weight: 500;
 }
 .container-plan{
     height:2.5rem;
@@ -44,16 +44,14 @@ body{
     display: flex;
     position: relative;
     gap: .7rem;
-    margin: 1rem 0;
-    border-radius: 1rem;    
+    margin: 2rem 0;
+    border-radius: .7rem;    
     padding: 2rem 2rem;
 }
 .container-plan-text{
     height: 3rem;
     gap: none;
-    row-gap: none;
-    margin: none;
-    padding: none;    
+    margin-left: .3rem;   
 }
 .icon-music{
     width: 3rem;
@@ -65,9 +63,9 @@ body{
 }
 .price-plan{
     color: hsl(220, 15%, 55%);
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin: 0rem;
-    margin-top: .1rem;
+    margin-top: .3rem;
 }
 .change{
     color: rgb(53, 0, 102);
@@ -76,6 +74,7 @@ body{
     right: 2rem;
     top: 50%;
     transform: translateY(-50%);
+    font-size: .8rem;
 }
 .change:hover{
     cursor: pointer;
