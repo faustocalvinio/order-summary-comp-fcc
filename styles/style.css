@@ -17,6 +17,7 @@ body{
     height: 43.5rem;
     background-color: #fff;
     border-radius: 1.5rem;
+    box-shadow: 0rem 1rem 1rem hsla(0, 0%, 50%, 0.137);
 }
 .container-texts{
     padding: 1.2rem 3rem 2rem;
@@ -35,7 +36,7 @@ body{
     text-align: center;
     color: hsl(220, 15%, 55%);
     font-size: 1rem;
-    line-height: 1.4rem;
+    line-height: 1.5rem;
     font-weight: 500;
 }
 .container-plan{
@@ -51,7 +52,7 @@ body{
 .container-plan-text{
     height: 3rem;
     gap: none;
-    margin-left: .3rem;   
+    margin-left: .5rem;   
 }
 .icon-music{
     width: 3rem;
@@ -63,12 +64,12 @@ body{
 }
 .price-plan{
     color: hsl(220, 15%, 55%);
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin: 0rem;
     margin-top: .3rem;
 }
 .change{
-    color: rgb(53, 0, 102);
+    color: rgba(0, 30, 70, 0.863);
     margin: 0rem;
     position: absolute;
     right: 1.5rem;
