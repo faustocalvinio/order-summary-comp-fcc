@@ -16,7 +16,7 @@ body{
     width: 28rem;
     height: 43.5rem;
     background-color: #fff;
-    border-radius: 1.5rem;
+    border-radius: 1.3rem;
     box-shadow: 0rem 1rem 1rem hsla(0, 0%, 50%, 0.137);
 }
 .container-texts{
@@ -35,7 +35,7 @@ body{
 .subtitle{
     text-align: center;
     color: hsl(220, 15%, 55%);
-    font-size: 1.2rem;
+    font-size: 1rem;
     line-height: 1.5rem;
     font-weight: 500;
 }
