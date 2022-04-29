@@ -49,7 +49,7 @@ body{
     font-weight: 500;
 }
 .container-plan{
-    height:2.5rem;
+    height:2.3rem;
     background-color:  var(--veryPaleBlue);
     display: flex;
     position: relative;
@@ -85,6 +85,7 @@ body{
     top: 50%;
     transform: translateY(-50%);
     font-size: .9rem;
+    font-weight: bold;
 }
 .change:hover{
     cursor: pointer;
