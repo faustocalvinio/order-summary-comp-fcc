@@ -49,14 +49,14 @@ body{
     font-weight: 500;
 }
 .container-plan{
-    height:2.3rem;
+    height:3rem;
     background-color:  var(--veryPaleBlue);
     display: flex;
     position: relative;
     gap: .7rem;
     margin: 1.5rem 0;
     border-radius: .7rem;    
-    padding: 2rem 1.5rem;
+    padding: 1.5rem 1.5rem;
 }
 .container-plan-text{
     height: 3rem;
